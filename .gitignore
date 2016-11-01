@@ -7,6 +7,6 @@
 !rrathm2gSite.sln
 !DesktopModules/
 DesktopModules/*
-!DesktopModules/rrathman/
-!DesktopModules/rrathman/*
+!rrathman/
+!rrathman/*
 
